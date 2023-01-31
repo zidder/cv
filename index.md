@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+# CV
 
-You can use the [editor on GitHub](https://github.com/zidder/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work experience
 
-### Markdown
+- Hilearn
+  - Software / Research Engineer (2017-2020)
+  - Senior Software / Research Engineer (2021-2022)
+    - Lead a team of 3-4 people over the specified period of time.
+- YSU
+  - Lecturer, Python, Master's program Applied Statistics and Data Science, YSU (2022-2023)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+- BS, Informatics and Applied Mathematics, YSU (2016-2020)
+- MS, Discrete Mathematics, Informatics and Applied Mathematics, YSU (2020-2022)
 
-# Header 1
-## Header 2
-### Header 3
+### Public projects
 
-- Bulleted
-- List
+- [sqlfluff](https://github.com/sqlfluff/sqlfluff)
+  - A single PR to fix an unexpected behaviour
+- [qarakusi.am](https://github.com/qarakusi-am/qarakusi.am/)
+  - Mostly setup and code review
+- [list.am scraper](https://github.com/zidder/list.am)
+- [segment tree](https://github.com/zidder/segment_tree)
+  - A simple implementation of multidimensional segment tree
+- [Trie](https://github.com/zidder/Trie)
+  - A simple implementation of basic Trie with autocomplete functionality
+- [Ninja game](https://github.com/hilearn/ai-game)
+  - A simple two player game for playing against each other from different computers
+- [Coronavirus research](https://github.com/salbert96/coronavirus-research)
+  - Contributed to a public project for predicted coronavirus spread in Armenia.
+  - Project was initiated by the former President Armen Sargsyan
+- [Intelligent trading](https://github.com/IntelligentTrading/trading)
+  - Contributed to a public project about algorithmic crypto trading in several exchanges.
 
-1. Numbered
-2. List
+## Skills
 
-**Bold** and _Italic_ and `Code` text
+### Programming
 
-[Link](url) and ![Image](src)
-```
+- Advanced knowledge of Data structures and Algorithms
+- Python
+  - Proficient knowledge of the language (including partial knowledge of underlying implementations)  
+  - Knowledge of some frameworks, e.g. Flask, Django, sklearn, etc.
+- Linux
+  - Intermediate knowledge of UNIX systems
+- Git
+  - Advanced knowledge of Git version control system (including plumbing commands and their implementations)
+- C/C++
+  - Intermediate knowledge of the languages
+- Experience in
+  - AWS
+  - Git
+  - Vim
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Math
 
-### Jekyll Themes
+- Advanced knowledge of
+  - Mathematical Analysis
+  - Algebra
+  - Probability Theory
+  - Mathematical Logic
+- Intermediate knowledge of
+  - Graph theory
+  - Functional Analysis
+- Basic knowledge of
+  - Differential Equatoins, PDE
+  - Numerical methods
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zidder/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Other activities
 
-### Support or Contact
+### Courses / Seminars
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ML cources by HiLearn
+  - [Public course](https://github.com/HiLearn-University) during CoVid, 2020
+  - [Private course](https://github.com/zidder/ML-ISTC-Unsupervised) (homeworks are public) in ISTC, 2018
+- Algorithms and Data structures seminars at YSU, 2017-2018
+
+### Olympiads / Contests
+
+- 2 Bronze medals from IMO, mathematics (2015, 2016)
+- A Silver medal from IZhO, mathematics (2016)
+- 3 Gold medals from IMC, mathematics (2018, 2019, 2020)
+- Bronze medal NERC, ACM ICPC, competetive programming (2022)
+- codeforces [profile](https://codeforces.com/profile/zidder)
